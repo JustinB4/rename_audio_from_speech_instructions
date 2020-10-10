@@ -1,5 +1,7 @@
 # rename_audio_from_speech_instructions
-Instructions on renaming wav files based on their text contents on Windows 10.
+How to rename wav files based on their speech contents on Windows 10.
+
+![](example.gif)
 
 1.	Have a Python environment set up with version 3.3+.  I have Python 3.7 in Anaconda on Windows 10.
 2.	Download the [Speech To Text File Rename.py](https://raw.githubusercontent.com/JustinB4/rename_audio_from_speech_instructions/main/Speech%20To%20Text%20File%20Rename.py) and save it to the folder where your .wav files exist.
