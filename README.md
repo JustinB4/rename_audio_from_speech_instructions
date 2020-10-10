@@ -2,7 +2,7 @@
 Instructions on renaming wav files based on their text contents on Windows 10.
 
 1.	Have a Python environment set up with version 3.3+.  I have Python 3.7 in Anaconda on Windows 10.
-2.	Download the script and save it to the folder where your .wav files exist.
+2.	Download the [Speech To Text File Rename.py](https://raw.githubusercontent.com/JustinB4/rename_audio_from_speech_instructions/main/Speech%20To%20Text%20File%20Rename.py) and save it to the folder where your .wav files exist.
 3.	Download [Swig for Windows](https://netix.dl.sourceforge.net/project/swig/swigwin/swigwin-3.0.12/swigwin-3.0.12.zip) – needed for pocketsphinx installation.
 4.	To find your python path, at the command prompt type: `Where python`
 5.	Extract the contents of the swig download to a temp folder.  Copy swig.exe to the python installation folder (ex. C:\Users\Justin\Anaconda3\envs\py37\)
